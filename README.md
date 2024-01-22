@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/search?q=animated+programmer+images&client=firefox-b-d&sca_esv=600330433&tbm=isch&sxsrf=ACQVn0-o1Pr6WSU2P-4ktV4rq9O6_loRhQ:1705901384220&source=lnms&sa=X&ved=2ahUKEwjzypzwofCDAxVfS2cHHUzrAFAQ_AUoAXoECAIQAw&biw=1536&bih=731&dpr=1.25#imgrc=cgcLL7HCwVkIsM)]
+ [![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)]
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 
 <h3 align="center">A passionate Backend developer & AI/ML from India</h3>
